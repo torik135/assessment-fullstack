@@ -108,7 +108,14 @@ function() {
 >Link Gitub Repo: https://github.com/torik135/react-trello-jsonplaceholder
 ---
 
-### 5. Munculkan semua data tiket yang open dan semua data pada rentang waktu _15 Juni 2022 - 22 Juni 2022_ berdasarkan cabang masing-masing.
+### 5. Munculkan semua data tiket yang open dan semua data pada rentang waktu _15 Juni 2022 - 22 Juni 2022_ berdasarkan cabang masing-masing. [PROGRESS]
+
+- masalah database yang terlalu besar untuk di muat.
+- jadi data yang dipakai hanya sekitar 700an baris data.
+
+>solusi untuk mapping data dari database:
+- solusi 1: convert baris ke kolom (pivoting).
+
 >Link Website: in-progress.
 
 >Link Gitub Repo: in-progress.
