@@ -114,7 +114,7 @@ function() {
 - jadi data yang dipakai hanya sekitar 700an baris data.
 
 >solusi untuk mapping data dari database:
-- solusi 1: convert baris ke kolom (pivoting).
+- solusi 1: convert baris ke kolom (groupby setelah filter dan concat).
 
 >Link Website: in-progress.
 
